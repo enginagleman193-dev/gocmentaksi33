@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gocmen33taksi.com/sitemap.xml
